@@ -5,6 +5,25 @@ body {
   flex-direction: column;
 }
 
+.headerbar {
+  height: 72px;
+  background: #1f2937;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.headerlinks li {
+  display: inline;
+  padding: 16px;
+}
+
+.headerlinks a {
+  font-size: 18px;
+  color: #e5e7eb;
+  text-decoration: none;
+}
+
 .footer {
   height: 72px;
   background: #1f2937;
