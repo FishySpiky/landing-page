@@ -27,7 +27,8 @@ body {
 .footer {
   height: 72px;
   background: #1f2937;
-  color: white;
+  font-size: 18px;
+  color: #e5e7eb;
   margin-top: auto;
   display: flex;
   justify-content: center;
