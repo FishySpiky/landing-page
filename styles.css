@@ -1,3 +1,10 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
 .footer {
   height: 72px;
   background: #1f2937;
