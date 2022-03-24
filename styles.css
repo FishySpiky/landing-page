@@ -42,37 +42,37 @@ body {
   text-decoration: none;
 }
 
-.one {
+.herocontainer {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: auto;
-  background: #1f2937;
+  width: 75%;
+  height: 50%;
+  margin: auto;
+  background: #1f293780;
 }
 
-.onemaintext {
+.heromaintext {
   font-size: 48px;
   font-weight: bolder;
   color: #f9faf8;
 }
 
-.onesecondarytext {
+.herosecondarytext {
   font-size: 24px;
   color: #e5e7eb;
 }
 
-button {
+.herobutton {
   padding: 8px 16px;
   margin-top: 16px;
-}
-
-.onebutton {
+  border-radius: 8px;
   background: #3882f6;
   color: #f9faf8;
   font-size: 24px;
   font-weight: bolder;
 }
 
-.oneimage {
+.heroimage {
   width: 50%;
 }
